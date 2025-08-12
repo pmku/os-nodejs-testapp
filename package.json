@@ -1,5 +1,5 @@
 {
-  "name": "os-nodejs-test",
+  "name": "os-nodejs-testapp",
   "version": "1.0.0",
   "description": "Node.js app for OpenShift",
   "main": "server.js",
